@@ -1,0 +1,4 @@
+18/02/19
+
+Inizio a creare le fondamenta dell'interfaccia utente, parto dall'interfaccia utente che sembrerebbe la più facile da strutturare. Sto iniziando a creare una finestra, nel quale in una barra di caricamento viene visualizzato le assenze/ritardi/uscite, ogni barra rappresenta un mese. In alternativa un calendario, dove per ogni giorno viene segnato con un colorcode specifico(stile spaggiari).
+
