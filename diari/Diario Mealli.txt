@@ -1,0 +1,5 @@
+18/02
+partendo dalla bozza dell'interfaccia grafica di Licone ho iniziato a scrivere il codice dell'app android.
+a fine giornata l'app ha la base del sistema della gestione dei voti, mostra correttamente le tre tabs e il calendario e stampa un semplice testo nella tab "oggi".
+19/02
+ho modificato il calendario in modo da fargli visualizzare solo l'anno scolastico corrente. ho creato un accenno della gui delle valutazioni e una classe che gestira' l'interazione con il server.
