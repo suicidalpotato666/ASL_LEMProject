@@ -4,3 +4,7 @@ Inizio a creare le fondamenta dell'interfaccia utente, parto dall'interfaccia ut
 
 19/02/19
 
+Inizio a completare la GUI dell'interfaccia utente, seguo la seconda opzione che avevo indicato,inoltre cercho di completare le altre tabs, in modo da renderlo più un registro, intanto comincio a progettare la parte desktop dell'applicazione del docente.
+
+20/02/19
+
